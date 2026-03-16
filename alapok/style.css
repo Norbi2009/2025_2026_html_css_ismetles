@@ -1,0 +1,25 @@
+
+h2{
+    background-color: lightblue;
+}
+
+p{
+    background-color: lightcyan;
+}
+
+.paros_h2{
+    color: darkblue;
+}
+
+.paratlan_h2{
+    color: deeppink;
+}
+
+#cimsorok{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 32px;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 3px;
+}
